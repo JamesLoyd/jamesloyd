@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ ⚡ Fun fact: I have a degree in Mathematics where I concentrated in Abstract Algebras.
+
 <!--
 **JamesLoyd/jamesloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
