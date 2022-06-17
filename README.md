@@ -2,6 +2,13 @@
 
  ⚡ Fun fact: I have a degree in Mathematics where I concentrated in Abstract Algebras.
 
+I currently maintain/ work on these projects:
+* [GitCommander](https://github.com/JamesLoyd/gitcommander)
+* [FilterQuery Language](https://github.com/JamesLoyd/FQL) and its [upstream source](https://github.com/atgfr8/FQL)
+* [JTheme](https://github.com/JamesLoyd/JTheme) which is my personal color theme for VS Code
+
+You can find JTHeme on the Visual Studio Marketplace [here](https://marketplace.visualstudio.com/items?itemName=JamesLoyd.jtheme)
+
 <!--
 **JamesLoyd/jamesloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
