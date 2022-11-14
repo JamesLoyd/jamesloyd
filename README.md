@@ -9,8 +9,9 @@ I currently maintain/ work on these projects:
 * [Rimflix-Hockeyflix](https://github.com/JamesLoyd/RImflix-HockeyFlix) is a simple mod for rimflix, which itself is a mod in Rimworld, which adds a cool hockey show to it, so you can watch hockey out on the rim
 
 
-- You can find JTHeme on the Visual Studio Marketplace [here](https://marketplace.visualstudio.com/items?itemName=JamesLoyd.jtheme)
-- You can fid Rimflix-HockeyFlix on Steam workshop [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2885073607)
+You can find JTHeme on the Visual Studio Marketplace [here](https://marketplace.visualstudio.com/items?itemName=JamesLoyd.jtheme)
+
+You can fid Rimflix-HockeyFlix on Steam workshop [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2885073607)
 
 <!--
 **JamesLoyd/jamesloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
