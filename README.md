@@ -11,7 +11,7 @@ I currently maintain/ work on these projects:
 
 You can find JTHeme on the Visual Studio Marketplace [here](https://marketplace.visualstudio.com/items?itemName=JamesLoyd.jtheme)
 
-You can fid Rimflix-HockeyFlix on Steam workshop [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2885073607)
+You can find Rimflix-HockeyFlix on Steam workshop [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2885073607)
 
 <!--
 **JamesLoyd/jamesloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
